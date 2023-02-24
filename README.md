@@ -172,12 +172,6 @@ v2.3.9.5 2023-31-01
 + NEW OBFUSCATION OP (-6 detection on virustotal)
 ```
 
-### Contributors (CapingTeam)
-- Xenis
-- Nono1337
-- Irax212
-- Shamroks
-
 ### <a id="forkedfrom"></a>🕵️‍♂️ 〢 Forked From:
 - Hazard Grabber
 - PirateStealer
