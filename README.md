@@ -5,12 +5,12 @@ Love ❌ code ✅
 </h2>
 
 `
-Blackcap was created for purely cultural and educational purposes in order to prove that the security of Discord and 
+created for purely cultural and educational purposes in order to prove that the security of Discord and 
 other applications is totally to be reviewed. I do not encourage the use of this script on others. 
 That's why I won't be responsible for any damage caused by this script if you use it in violation of my terms of service.`
 
 **NOTE:** 
-- BlackCap was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
+- was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
 - You got an error? you've find a bug? join the discord or create an issue!
 
 ---
